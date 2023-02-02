@@ -64,6 +64,14 @@
   font-weight: 300;
 }
 
+.link.menu.bold {
+  font-weight: 400;
+}
+
+.link.menu.hidden {
+  display: none;
+}
+
 .footer {
   position: absolute;
   bottom: 0px;
@@ -453,7 +461,7 @@
 .div-block-14 {
   position: relative;
   overflow: hidden;
-  padding-bottom: 460px;
+  padding-bottom: 572px;
   background-color: #fff;
   cursor: none;
   mix-blend-mode: multiply;
@@ -909,7 +917,7 @@
   }
 
   .div-block-14 {
-    padding-bottom: 575px;
+    padding-bottom: 746px;
   }
 
   .div-block-15 {
